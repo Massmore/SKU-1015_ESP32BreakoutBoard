@@ -1,0 +1,19 @@
+# Build outputs
+build/
+*.bin
+*.elf
+*.map
+
+# Arduino IDE / PlatformIO
+.pio/
+.vscode/
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Backup files
+*~
+*.bak
