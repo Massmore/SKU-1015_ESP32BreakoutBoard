@@ -1,7 +1,7 @@
 # SKU-1015 — ESP32 38PIN Breakout Board (ชุดฝึกหุ่นยนต์ Robot / Prototype)
 
 <p align="center">
-  <img src="Document/images/1774080733359-uhh9x0-shopee-355.webp" width="600" alt="SKU-1015 ESP32 Breakout Board Overview">
+  <img src="Document/images/SKU-1015_AW_Poster.png" width="600" alt="SKU-1015 ESP32 Breakout Board Overview">
 </p>
 
 **บอร์ดขยาย ESP32 38PIN สำหรับงานหุ่นยนต์ IoT และการเรียนรู้ Arduino** ออกแบบและจำหน่ายโดย [Massmore](https://www.massmore.shop) — รองรับ DC Motor Driver, Servo 3 ช่อง, จอ TFT/OLED, Analog I/O 7 ช่อง พร้อม DC-DC Step Down 5V/3A ในบอร์ดเดียว
@@ -46,7 +46,7 @@
 | **VR** | VR | GPIO34 | Potentiometer (input only) |
 | **Switch** | SW | GPIO36 | User Switch, Active LOW (input only, hardware pull-up) |
 
-รูปตาราง Pinout ฉบับเต็ม: [`Document/images/121-1 (1).webp`](Document/images)
+รูปตาราง Pinout ฉบับเต็ม: [`Document/images/1.webp`](Document/images/1.webp)
 
 ## 📁 โครงสร้างโปรเจกต์ (Repository Structure)
 
